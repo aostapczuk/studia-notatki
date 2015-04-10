@@ -41,3 +41,4 @@ Napisz pętlę while wypisującą na ekran znaki podane przez użytkownika, aż 
 1. #include <stdio.h>
 2. int main (){
 3. 
+rsetghdthndthnh
